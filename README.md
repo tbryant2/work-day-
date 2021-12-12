@@ -1,1 +1,2 @@
 # work-day-
+A simple work day schedular planning your day with custom tasks from 9am to 5pm. The color changes per hour block based on the status of the current hour. Green means the hour has not occured and the task is still possible to complete, red means the hour has passed and your task is late, grey means no tasks are located in the hour block therefore it's neutral. Users can save tasks via the button the right, to local storage and reload saved tasks once leaving the page. 
